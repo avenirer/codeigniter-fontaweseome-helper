@@ -13,6 +13,8 @@ $this->load->helper('faicons');
 //use it
 <h1>Here is an icon...</h1>
 <?php echo fa_icon('ambulance') ?>
+//or
+<?php echo fa_icon('ambulance','fa-2x') ?>
 ```
 
 #List of icons
