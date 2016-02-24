@@ -1,5 +1,7 @@
 # codeigniter-fontaweseome-helper
-A simple helper lib for font-aweseome
+A simple helper lib for font-aweseome.
+
+Feel free to add and make changes as you see fit. I use this on a few of my projects so any updates are appreciated.
 
 Pretty easy to use.
 
